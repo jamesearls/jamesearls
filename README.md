@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-![](https://komarev.com/ghpvc/?username=jamesearls)
+![](https://komarev.com/ghpvc/?username=jamesearls&label=Profile+Views)
 #### I'm a Computer Science Graduate in Belfast.
 
 ##### NOW
