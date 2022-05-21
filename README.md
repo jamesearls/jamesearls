@@ -12,7 +12,7 @@
 
 - ⚙️ I've worked with: `.py`, `.js`, `.dart`, `.java`, `.robot`,
 - 🌱 I’m currently learning React
-- 📫 Reach me: [twitter.com/jamesearls98](https://twitter.com/jamesearls98)
+- 📫 Reach me: [linkedin.com/jamesearls](https://www.linkedin.com/in/23128745asdsa/)
 - ⚡️ Fun fact: I play American Football in Ireland
 
 
