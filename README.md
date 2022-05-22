@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jamesearls&label=Profile+Views)
 <!-- comment -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&height=60&lines=Hey+there%2C+my+name+is+James.+;Lets+write+code+together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&multiline=true&height=60&lines=Hey+there%2C+my+name+is+James.+;Lets+write+code+together...)](https://git.io/typing-svg)
 #### I'm a Computer Science Graduate in Belfast.
 
 ##### NOW
