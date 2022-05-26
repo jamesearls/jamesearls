@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🌱 I’m currently learning React
-- 📫 Reach me: [linkedin.com/jamesearls](https://www.linkedin.com/in/23128745asdsa/)
+- 📫 Reach me: [Linktree](https://linktr.ee/jamesearls)
 - ⚡️ Fun fact: I play American Football in Ireland
 
 <h3 align="left">Languages and Tools:</h3>
