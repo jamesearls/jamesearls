@@ -1,17 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=jamesearls&label=Profile+Views)
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&multiline=true&height=60&lines=Hey%2C+my+name+is+James.+;Lets+code+something+neat...;timing)](https://git.io/typing-svg)
-#### I'm a Computer Science Graduate in Belfast.
+#### I'm a Software Engineer in Belfast.
 
 ##### NOW
 
-- 💻 Currently trying to build out my portfolio
-- 🏈 Working on a website for my American Football team
-- 📱 Building upon my Final Year Project app
+- 💻 Currently working in Cybersecurity, writing RESTful APIs to support a new and fresh UI
+- 📱 Staying up to date with all the latest technologies
+- 🏈 Training Hard for my American Football team
 
 ##### BIO
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently building upon my Java & Spring Knowledge, trying to pick up some React js on the way 
 - 📫 Reach me: [Linktree](https://linktr.ee/jamesearls)
 - ⚡️ Fun fact: I play American Football in Ireland
 
